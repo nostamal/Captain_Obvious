@@ -79,7 +79,7 @@ respuesta-2-de-mengano
 
 ### Salida del programa
 
-El programa vuelca todos los resultados por STDIN (es decir, por pantalla). Como estos resultados pueden ocupar muchas líneas, se recomienda redirigir la salida del programa a un fichero de resultados:
+El programa vuelca todos los resultados por STDOUT (es decir, por pantalla). Como estos resultados pueden ocupar muchas líneas, se recomienda redirigir la salida del programa a un fichero de resultados:
 ```
 python CaptainObvious.py NumRonda FicheroPreguntas FicheroRespuestas FicheroGeneral > FicheroResultados
 ```
